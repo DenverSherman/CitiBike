@@ -1,7 +1,6 @@
 # CitiBike
 A Demonstration in Tableau
 
-## Citibike Story !
 [Citibike Story](https://public.tableau.com/profile/denversherman#!/vizhome/CitiBikeStory_16036795626770/CitiBikeStory?publish=yes)
 
 ## Overview
